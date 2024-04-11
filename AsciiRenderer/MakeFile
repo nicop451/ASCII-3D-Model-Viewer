@@ -1,0 +1,2 @@
+g++ main.cpp -I VectorMath.hpp -o main  Vectormath.cpp
+./main.exe
